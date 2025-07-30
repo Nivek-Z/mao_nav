@@ -89,6 +89,13 @@ export const mockData = {
           "name": "Folo",
           "url": "https://app.folo.is",
           "description": ""
+        },
+        {
+          "id": "site-1753875785571",
+          "name": "Excalidraw",
+          "url": "https://excalidraw.com/",
+          "description": "",
+          "icon": "/sitelogo/excalidraw.com.ico"
         }
       ]
     }
