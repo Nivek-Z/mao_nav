@@ -40,6 +40,13 @@ export const mockData = {
           "url": "https://img.nivekz.org/",
           "description": "",
           "icon": " https://img.nivekz.org/favicon.ico"
+        },
+        {
+          "id": "site-1753879208450",
+          "name": "飞牛影视",
+          "url": "https://nivekz.fnos.net/v",
+          "description": "",
+          "icon": " https://www.fnnas.com/favicon.ico"
         }
       ]
     },
