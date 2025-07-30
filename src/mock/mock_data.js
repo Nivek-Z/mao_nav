@@ -46,14 +46,21 @@ export const mockData = {
           "id": "site-1752857783656",
           "name": "OpenAI",
           "url": "https://chatgpt.com",
-          "description": "OpenAI,好用👌",
+          "description": "",
           "icon": "/sitelogo/chatgpt.com.ico"
+        },
+        {
+          "id": "site-1753874528145",
+          "name": "Google Gemini",
+          "url": "https://gemini.google.com/",
+          "description": "",
+          "icon": "/sitelogo/gemini.google.com.ico"
         },
         {
           "id": "linux-do",
           "name": "Linux.do",
           "url": "https://linux.do",
-          "description": "Linux技术社区，Peace and Love",
+          "description": "",
           "icon": "/sitelogo/linux.do.ico"
         },
         {
