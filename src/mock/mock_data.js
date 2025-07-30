@@ -10,7 +10,8 @@ export const mockData = {
           "id": "site-1753872686258",
           "name": "Alist",
           "url": "https://alist.nivekz.org",
-          "description": ""
+          "description": "",
+          "icon": "https://cdn.jsdelivr.net/gh/alist-org/logo@main/logo.svg"
         },
         {
           "id": "site-1753872757476",
