@@ -76,6 +76,13 @@ export const mockData = {
           "url": "http://check.fnos.net/nivekz",
           "description": "",
           "icon": "/sitelogo/check.fnos.net.ico"
+        },
+        {
+          "id": "site-1753874680201",
+          "name": "Cloudflare",
+          "url": "https://www.cloudflare.com/",
+          "description": "",
+          "icon": "/sitelogo/www.cloudflare.com.ico"
         }
       ]
     }
