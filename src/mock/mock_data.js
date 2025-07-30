@@ -54,6 +54,13 @@ export const mockData = {
           "url": " https://rp.nivekz.org",
           "description": "纯前端AI角色扮演",
           "icon": " https://rp.nivekz.org/icon.ico"
+        },
+        {
+          "id": "site-1753880257457",
+          "name": "Blog",
+          "url": "https://blog.nivekz.org",
+          "description": "基于halo的博客",
+          "icon": "https://nav.nivekz.org/logo.png"
         }
       ]
     },
