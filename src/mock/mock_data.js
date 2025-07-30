@@ -14,6 +14,13 @@ export const mockData = {
           "icon": "https://cdn.jsdelivr.net/gh/alist-org/logo@main/logo.svg"
         },
         {
+          "id": "site-1753872823773",
+          "name": "Lobechat",
+          "url": "https://aichat.nivekz.org",
+          "description": "",
+          "icon": " https://aichat.nivekz.org/favicon.ico?v=1"
+        },
+        {
           "id": "site-1753872757476",
           "name": "Vaultwarden",
           "url": "https://password.nivekz.org/",
@@ -26,13 +33,6 @@ export const mockData = {
           "url": "https://img.nivekz.org/",
           "description": "",
           "icon": " https://img.nivekz.org/favicon.ico"
-        },
-        {
-          "id": "site-1753872823773",
-          "name": "Lobechat",
-          "url": "https://aichat.nivekz.org",
-          "description": "",
-          "icon": " https://aichat.nivekz.org/favicon.ico?v=1"
         }
       ]
     },
