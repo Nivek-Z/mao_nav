@@ -17,28 +17,28 @@ export const mockData = {
           "id": "site-1753872686258",
           "name": "Alist",
           "url": "https://alist.nivekz.org",
-          "description": "",
+          "description": "网盘",
           "icon": "https://cdn.jsdelivr.net/gh/alist-org/logo@main/logo.svg"
         },
         {
           "id": "site-1753872823773",
           "name": "Lobechat",
           "url": "https://aichat.nivekz.org",
-          "description": "",
+          "description": "纯前端ai对话",
           "icon": " https://aichat.nivekz.org/favicon.ico?v=1"
         },
         {
           "id": "site-1753872757476",
           "name": "Vaultwarden",
           "url": "https://password.nivekz.org/",
-          "description": "",
+          "description": "密码管理系统",
           "icon": " https://password.nivekz.org/images/favicon-32x32.png"
         },
         {
           "id": "site-1753872801428",
           "name": "Lsky",
           "url": "https://img.nivekz.org/",
-          "description": "",
+          "description": "图床",
           "icon": " https://img.nivekz.org/favicon.ico"
         },
         {
@@ -47,6 +47,13 @@ export const mockData = {
           "url": "https://nivekz.fnos.net/v",
           "description": "",
           "icon": " https://www.fnnas.com/favicon.ico"
+        },
+        {
+          "id": "site-1753879839255",
+          "name": "Narratiumai",
+          "url": " https://rp.nivekz.org",
+          "description": "AI角色扮演",
+          "icon": " https://rp.nivekz.org/icon.ico"
         }
       ]
     },
