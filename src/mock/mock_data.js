@@ -69,6 +69,13 @@ export const mockData = {
           "url": "https://github.com",
           "description": "代码托管平台",
           "icon": "/sitelogo/github.com.ico"
+        },
+        {
+          "id": "site-1753874606031",
+          "name": "FNOS-FNConnect",
+          "url": "http://check.fnos.net/nivekz",
+          "description": "",
+          "icon": "/sitelogo/check.fnos.net.ico"
         }
       ]
     }
