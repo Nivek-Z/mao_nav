@@ -116,7 +116,8 @@ export const mockData = {
           "id": "site-1753875539164",
           "name": "Folo",
           "url": "https://app.folo.is",
-          "description": ""
+          "description": "",
+          "icon": "https://folo.is/icon.ico?5cc3fe111ce7676d"
         },
         {
           "id": "site-1753875785571",
