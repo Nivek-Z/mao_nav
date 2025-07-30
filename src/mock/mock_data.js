@@ -2,7 +2,7 @@ export const mockData = {
   "categories": [
     {
       "id": "category-1753872639460",
-      "icon": "🌐",
+      "icon": "☁️",
       "name": "自部署服务",
       "order": 0,
       "sites": [
