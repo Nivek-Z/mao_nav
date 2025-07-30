@@ -16,19 +16,22 @@ export const mockData = {
           "id": "site-1753872757476",
           "name": "Vaultwarden",
           "url": "https://password.nivekz.org/",
-          "description": ""
+          "description": "",
+          "icon": " https://password.nivekz.org/images/favicon-32x32.png"
         },
         {
           "id": "site-1753872801428",
           "name": "Lsky",
           "url": "https://img.nivekz.org/",
-          "description": ""
+          "description": "",
+          "icon": " https://img.nivekz.org/favicon.ico"
         },
         {
           "id": "site-1753872823773",
           "name": "Lobechat",
           "url": "https://aichat.nivekz.org",
-          "description": ""
+          "description": "",
+          "icon": " https://aichat.nivekz.org/favicon.ico?v=1"
         }
       ]
     },
