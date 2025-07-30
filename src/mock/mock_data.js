@@ -7,6 +7,13 @@ export const mockData = {
       "order": 0,
       "sites": [
         {
+          "id": "site-1753878492261",
+          "name": "Uptime Kuma",
+          "url": "https://watchdog.nivekz.org/status/sites",
+          "description": "站点状态监控",
+          "icon": "https://watchdog.nivekz.org/icon-192x192.png"
+        },
+        {
           "id": "site-1753872686258",
           "name": "Alist",
           "url": "https://alist.nivekz.org",
