@@ -83,6 +83,12 @@ export const mockData = {
           "url": "https://www.cloudflare.com/",
           "description": "",
           "icon": "/sitelogo/www.cloudflare.com.ico"
+        },
+        {
+          "id": "site-1753875539164",
+          "name": "Folo",
+          "url": "https://app.folo.is",
+          "description": ""
         }
       ]
     }
