@@ -52,7 +52,7 @@ export const mockData = {
           "id": "site-1753879839255",
           "name": "Narratiumai",
           "url": " https://rp.nivekz.org",
-          "description": "纯前端AI角色扮演",
+          "description": "",
           "icon": " https://rp.nivekz.org/favicon.ico"
         },
         {
