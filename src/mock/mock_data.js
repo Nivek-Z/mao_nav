@@ -50,10 +50,10 @@ export const mockData = {
         },
         {
           "id": "site-1753879839255",
-          "name": "Narratiumai",
+          "name": "Sillytavern",
           "url": " https://rp.nivekz.org",
-          "description": "纯前端AI角色扮演",
-          "icon": " https://rp.nivekz.org/icon.ico"
+          "description": "",
+          "icon": " https://rp.nivekz.org/img/logo.png"
         },
         {
           "id": "site-1753880257457",
