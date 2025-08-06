@@ -50,7 +50,7 @@ export const mockData = {
         },
         {
           "id": "site-1753879839255",
-          "name": "Narratiumai",
+          "name": "SillyTavern",
           "url": " https://rp.nivekz.org",
           "description": "",
           "icon": " https://rp.nivekz.org/favicon.ico"
